@@ -6,5 +6,9 @@ oder (bei Bedarf) in weiteren `.tex`-Dateien erstellt werden. Die Arbeit kann mi
 `make` kompiliert werden. Die Vorlage entspricht vorrangig den Vorgaben der Fakultät AI, sollte aber
 problemlos an andere Vorgaben anpassbar sein.
 
+## Beispiel
+
+![Titelseite einer Arbeit](Titlepage.png "Titelseite einer Arbeit")
+
 ---
 © 2021 [Andreas Fischer](mailto:andreas.fischer@th-deg.de)
