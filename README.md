@@ -6,5 +6,5 @@ oder (bei Bedarf) in weiteren `.tex`-Dateien erstellt werden. Die Arbeit kann mi
 `make` kompiliert werden. Die Vorlage entspricht vorrangig den Vorgaben der Fakultät AI, sollte aber
 problemlos an andere Vorgaben anpassbar sein.
 
---
+---
 © 2021 [Andreas Fischer](mailto:andreas.fischer@th-deg.de)
