@@ -4,7 +4,8 @@ Dieses Repository enthält eine Vorlage für eine Studienarbeit in LaTeX. Der St
 muss in `thesis.tex` die Rahmendaten anpassen. Die eigentliche Arbeit kann in `main.tex`
 oder (bei Bedarf) in weiteren `.tex`-Dateien erstellt werden. Die Arbeit kann mittels des Kommandos
 `make` kompiliert werden. Die Vorlage entspricht vorrangig den Vorgaben der Fakultät AI, sollte aber
-problemlos an andere Vorgaben anpassbar sein.
+problemlos an andere Vorgaben anpassbar sein. Selbstverständlich sollte die Verwendung der Vorlage
+sowie notwendige Anpassungen vorab mit dem Betreuer der Arbeit geklärt werden.
 
 ## Beispiel
 
